@@ -1,0 +1,32 @@
+{
+  "name": "html5",
+  "version": "1.0.0",
+  "description": "HTML5 Tracker And Example",
+  "main": "index.js",
+  "engines": {
+    "node": ">=7.10.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp example",
+    "dev": "gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/club-frontend/html5.git"
+  },
+  "keywords": [
+    "html",
+    "html5"
+  ],
+  "author": "WEI FEI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/club-frontend/html5/issues"
+  },
+  "homepage": "https://github.com/club-frontend/html5#readme",
+  "devDependencies": {
+    "browser-sync": "2.18.13",
+    "gulp": "3.9.1"
+  }
+}
